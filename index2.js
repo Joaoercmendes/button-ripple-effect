@@ -6,4 +6,4 @@ btnElement.addEventListener('mouseover', (event) => {
 
   btnElement.style.setProperty("--xPos", x + 'px')
   btnElement.style.setProperty("--yPos", y + 'px')
-})
+});
